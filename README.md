@@ -16,7 +16,7 @@ yarn
 ```
 
 ## Run the project
-### Run a mongoDB instance (cf. Documentation of MongoDB)
+- Run a mongoDB instance (cf. Documentation of MongoDB)
 
 Launch the project using expo or npm or yarn
 ```bash
@@ -29,3 +29,16 @@ npm start
 ```bash
 yarn start
 ```
+
+## Api Doc
+Example of usage for each API usage can be found under doc/**
+
+- Install VSCode extension [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) 
+- Import thunder-collection_node-api.json
+- Voilà
+
+## Useful links
+
+- [Mongoose](https://mongoosejs.com/)
+- [MongoDB](https://docs.mongodb.com/)
+
